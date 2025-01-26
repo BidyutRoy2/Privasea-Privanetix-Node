@@ -12,7 +12,7 @@
 
 1) Past Command in Your VPS/WSL/Ubuntu
 ```
-source <(wget -O - Git SH Link)
+source <(wget -O - https://raw.githubusercontent.com/BidyutRoy2/Privasea-Privanetix-Node/refs/heads/main/PrivaseaNode.sh)
 ```
 
 Get Your Address & Copy
